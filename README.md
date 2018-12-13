@@ -5,3 +5,6 @@ Lite CMD with c# ,DO some funtions like :
 
 - shutdown  >to shutdown the computer
 
+killprocrss command
+
+> to kill a process running in system
