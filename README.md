@@ -1,12 +1,13 @@
 # CMD
 Lite CMD with c# ,DO some funtions like :
-
+- help command 
+> show the command that my CMD can do.
 - cd command
- > to go to this directory
+ > go to this directory
 - shutdown  command
->to shutdown the computer
+>shutdown the computer
 -killprocrss command
-> to kill a process running in system
+> kill a process running in system
 - createprocess command
 > running process
 
