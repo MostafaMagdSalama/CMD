@@ -1,0 +1,9 @@
+c:\users\mostafa\documents\visual studio 2015\Projects\CMD\CMD\bin\Debug\CMD.exe.config
+c:\users\mostafa\documents\visual studio 2015\Projects\CMD\CMD\obj\Debug\CMD.csprojResolveAssemblyReference.cache
+c:\users\mostafa\documents\visual studio 2015\Projects\CMD\CMD\bin\Debug\CMD.exe
+c:\users\mostafa\documents\visual studio 2015\Projects\CMD\CMD\bin\Debug\CMD.pdb
+c:\users\mostafa\documents\visual studio 2015\Projects\CMD\CMD\obj\Debug\CMD.exe
+c:\users\mostafa\documents\visual studio 2015\Projects\CMD\CMD\obj\Debug\CMD.pdb
+C:\Users\MOSTAFA\Desktop\CMD\CMD\bin\Debug\CMD.exe.config
+C:\Users\MOSTAFA\Desktop\CMD\CMD\obj\Debug\CMD.exe
+C:\Users\MOSTAFA\Desktop\CMD\CMD\obj\Debug\CMD.pdb
